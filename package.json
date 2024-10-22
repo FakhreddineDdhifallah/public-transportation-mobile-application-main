@@ -18,13 +18,13 @@
     "@expo/vector-icons": "^12.0.0",
     "react-native-paper": "4.9.2",
     "react-native-screens": "~3.8.0",
-    "@react-navigation/stack": "*",
+    "@react-navigation/stack": "6.3.13",
     "@react-navigation/native": "6.0.0",
     "react-native-gesture-handler": "~1.10.2",
     "react-native-safe-area-context": "3.3.2",
-    "react-native-qrcode-svg": "*",
+    "react-native-qrcode-svg": "6.1.2",
     "react-native-svg": "12.1.1",
-    "react-native-custom-qr-codes-expo": "*"
+    "react-native-custom-qr-codes-expo": "1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
