@@ -25,7 +25,7 @@ export const HomeScreen = () => {
       backgroundColor:"#3A9EC2",
       imagesrc:mrt,
       onPressHandler:()=>{
-        nav.navigate("schedule",{title:"MRT",imagesrc:mrt,backgroundColor:"#3A9EC2"});
+        nav.navigate("schedule",{title:"Train",imagesrc:mrt,backgroundColor:"#3A9EC2"});
       }
     }
   ];
