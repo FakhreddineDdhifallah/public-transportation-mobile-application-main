@@ -95,7 +95,7 @@ export const HomeScreen = () => {
       <View style={styles.topview}>
         <View style={styles.welcomecontainer}>
           <Text style={styles.welcomemessage}>
-            {"Hello,<br/> Ahmed".split("<br/>").join("\n")}
+            {"Hello,<br/> Ahmed mo7sen".split("<br/>").join("\n")}
           </Text>
           <Image source={logo} style={styles.logo} />
         </View>
